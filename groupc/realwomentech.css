@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    font-size: auto;
+    background-color: #EC7063;
+}
+
+
+.container {width: 100%;
+            padding: 1em;
+      
+}
+
+.header {background-color: #EC7063;
+         color: black;
+         text-align: center;
+         clear: both;
+         border: 1px black solid;
+  
+}
+
+.nav li {float: left;
+         clear: both;
+         margin: 0%;
+         width: 25%;
+        
+}
+
+.herstory {float: right;
+           clear: both;
+           margin: 0%;
+           width: 75%;
+           border-left: 1px black solid;
+           
+}
+
+    
+<!-- Will insert BLS stats. -->
+.stats {
+   
+}
+
+.footer {background-color: #EC7063;
+         color: black;
+         text-align: center;
+         clear: both;
+         border: 1px black solid;}
