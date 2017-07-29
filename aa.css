@@ -1,0 +1,64 @@
+@import 'https://fonts.google.com/specimen/Great+Vibes';
+
+body {
+    
+    background: #adad85;
+}
+
+.movement {text-align: left;
+    
+}
+
+.container {text-align: center;
+            width: 100%;
+            border: 1px black solid;
+    
+}
+
+.item {
+    
+}
+
+.nav li {text-align: left;
+         display: inline-block;
+         margin: 15px;
+}
+
+.nav a {text-align: left;
+       text-decoration: none;
+       color: black;
+       font-size: x-large;
+}
+
+.banner {float: left;
+         clear: both;
+         height: auto;
+         margin: 20px;
+        
+    }
+.auction {float: left;
+          clear: both;
+         height: auto;
+         margin: 20px;
+}
+
+.aviation {float: left;
+         clear: both;
+         height: auto;
+         margin: 20px;
+    
+}
+
+.ephemera {float: right;
+          clear: both;
+         height: auto;
+         margin: 20px;
+    
+}
+
+.jewelry {float: left;
+         clear: both;
+         height: auto;
+         margin: 20px;
+    
+}
