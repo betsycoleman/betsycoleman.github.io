@@ -9,6 +9,12 @@ body {
     
 }
 
+.resize {max-width:50%;
+  max-height:50%;
+  
+    
+}
+
 .container {text-align: center;
             width: 100%;
             border: 1px black solid;
@@ -49,7 +55,7 @@ body {
     
 }
 
-.ephemera {float: right;
+.ephemera {float: left;
           clear: both;
          height: auto;
          margin: 20px;
